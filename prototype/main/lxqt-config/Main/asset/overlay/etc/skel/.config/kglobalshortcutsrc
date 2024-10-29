@@ -6,18 +6,6 @@ switch-to-activity-9d8ae070-8a25-4665-b7fc-5c80a2a1336e=none,none,Switch to acti
 Switch to Next Keyboard Layout=Meta+Alt+K,none,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
-[featherpad.desktop]
-_k_friendly_name=FeatherPad
-_launch=Alt+Shift+E,none,FeatherPad
-new-window=none,none,New Window
-standalone-window=none,none,Standalone Window
-
-[firefox.desktop]
-_k_friendly_name=Firefox
-_launch=Alt+Shift+B,none,Firefox
-new-private-window=Ctrl+Alt+B,none,New Private Window
-new-window=none,none,New Window
-
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
 _k_friendly_name=Accessibility
@@ -202,14 +190,6 @@ view_actual_size=Meta+0,Meta+0,Zoom to Actual Size
 view_zoom_in=Meta++\tMeta+=,Meta++,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out
 
-[lxqt-leave.desktop]
-_k_friendly_name=Leave
-_launch=Alt+Shift+Z,Alt+Shift+Z,Leave
-
-[lxqt-logout.desktop]
-_k_friendly_name=Logout
-_launch=Alt+Shift+X,Alt+Shift+X,Logout
-
 [org.kde.dolphin.desktop]
 _k_friendly_name=Dolphin
 _launch=none,Meta+E,Dolphin
@@ -264,10 +244,6 @@ Toggle Keyboard Backlight=Keyboard Light On/Off\tAlt+|,Keyboard Light On/Off,Tog
 Turn Off Screen=none,none,Turn Off Screen
 _k_friendly_name=Power Management
 
-[pcmanfm-qt.desktop]
-_k_friendly_name=PCManFM-Qt File Manager
-_launch=Alt+Shift+F,none,PCManFM-Qt File Manager
-
 [plasmashell]
 _k_friendly_name=Plasma
 activate task manager entry 1=Meta+1,Meta+1,Activate Task Manager Entry 1
@@ -299,34 +275,6 @@ switch to next activity=Alt+Tab,none,Switch to Next Activity
 switch to previous activity=Alt+`,none,Switch to Previous Activity
 toggle do not disturb=none,none,Toggle do not disturb
 
-[qterminal.desktop]
-Dropdown=none,none,Drop-down terminal
-_k_friendly_name=QTerminal
-_launch=Alt+Return\tAlt+Shift+A,none,QTerminal
-
-[rofi-show-drun.desktop]
-_k_friendly_name=Rofi Show Drun
-_launch=Alt+Shift+D,none,Rofi Show Drun
-
-[rofi-show-run.desktop]
-_k_friendly_name=Rofi Show Run
-_launch=Alt+Shift+R,none,Rofi Show Run
-
-[rofi-show-window.desktop]
-_k_friendly_name=Rofi Show Window
-_launch=Alt+Shift+W,none,Rofi Show Window
-
-[sakura.desktop]
-_k_friendly_name=Sakura
-_launch=Ctrl+Alt+A,none,Sakura
-
-[screengrab.desktop]
-ActiveWindowScreenShot=Meta+Print,Meta+Print,Capture Active Window
-FullScreenScreenShot=Print,Print,Capture Entire Desktop
-RectangularRegionScreenShot=Ctrl+Print,Ctrl+Print,Capture Rectangular Region
-_k_friendly_name=ScreenGrab
-_launch=Alt+Print,Alt+Print,ScreenGrab
-
 [systemsettings.desktop]
 _k_friendly_name=System Settings
 _launch=Tools\tAlt+Shift+S,Tools,System Settings
@@ -335,13 +283,6 @@ kcm-lookandfeel=none,none,Global Theme
 kcm-users=none,none,Users
 powerdevilprofilesconfig=none,none,Energy Saving
 screenlocker=none,none,Screen Locking
-
-[thunar.desktop]
-_k_friendly_name=Thunar File Manager
-_launch=Alt+Shift+G,none,Thunar File Manager
-open-computer=none,none,Computer
-open-home=none,none,Home
-open-trash=none,none,Trash
 
 [wacomtablet]
 Map to fullscreen=none,Meta+Ctrl+F,Map to fullscreen
@@ -353,11 +294,6 @@ Toggle screen map selection=none,Meta+Ctrl+M,Toggle between all screens
 Toggle stylus mode=none,Meta+Ctrl+S,Toggle the Stylus Tool Relative/Absolute
 Toggle touch tool=none,Meta+Ctrl+T,Enable/Disable the Touch Tool
 _k_friendly_name=Wacom Tablet
-
-[xfce4-terminal.desktop]
-_k_friendly_name=Xfce Terminal
-_launch=Ctrl+Alt+T,none,Xfce Terminal
-preferences=none,none,Terminal Preferences
 
 [yakuake]
 _k_friendly_name=Yakuake
