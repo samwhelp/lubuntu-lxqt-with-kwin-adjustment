@@ -29,8 +29,7 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 ## Config File Path
 
 * [lxqt](#lxqt)
-* [openbox](#openbox)
-* [picom](#picom)
+* [kwin](#kwin)
 * [default-cursor-theme](#default-cursor-theme)
 * [gtk2](#gtk2)
 * [gtk3](#gtk3)
@@ -55,18 +54,11 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 | [~/.config/lxqt/session.conf](./asset/overlay/etc/skel/.config/lxqt/session.conf) |
 
 
-### openbox
+### kwin
 
 | Config File Path |
 | --- |
-| [~/.config/openbox/rc.xml](./asset/overlay/etc/skel/.config/openbox/rc.xml) |
-
-
-### picom
-
-| Config File Path |
-| --- |
-| [~/.config/picom.conf](./asset/overlay/etc/skel/.config/picom.conf) |
+| [~/.config/kwinrc](./asset/overlay/etc/skel/.config/kwinrc) |
 
 
 ### default-cursor-theme
