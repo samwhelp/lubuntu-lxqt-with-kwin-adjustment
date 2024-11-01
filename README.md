@@ -21,7 +21,7 @@
 
 | Adjustment |
 | ---------- |
-| [Lubuntu 24.10](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Lubuntu 24.10 / Lxqt with Kwin / Config](https://github.com/samwhelp/lubuntu-lxqt-with-kwin-adjustment/tree/main/prototype/main/lxqt-config) |
 
 
 
