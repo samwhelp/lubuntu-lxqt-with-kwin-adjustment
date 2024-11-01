@@ -5,24 +5,7 @@
 * [Config File Path](#config-file-path)
 * [Ubuntu Package](#ubuntu-package)
 * [Usage](#usage)
-
-
-
-## Explore
-
-run
-
-``` sh
-apt-cache search aurorae
-```
-
-show
-
-```
-arc-kde - Port of the popular GTK theme Arc for Plasma 5
-materia-kde - Port of the popular GTK theme Materia for Plasma 5
-orchis-kde - Port of the popular GTK theme Orchis for Plasma
-```
+* [Explore](#explore)
 
 
 
@@ -189,6 +172,13 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 | [kwin-decoration-oxygen](https://packages.ubuntu.com/oracular/kwin-decoration-oxygen) |
 
 
+| Ubuntu Package |
+| --- |
+| [qt6-style-kvantum](https://packages.ubuntu.com/oracular/qt6-style-kvantum) |
+| [qt6-style-kvantum-l10n](https://packages.ubuntu.com/oracular/qt6-style-kvantum-l10n) |
+| [qt6-style-kvantum-themes](https://packages.ubuntu.com/oracular/qt6-style-kvantum-themes) |
+
+
 
 
 ## Usage
@@ -251,4 +241,43 @@ or run
 
 ``` sh
 make config-install
+```
+
+
+
+
+## Explore
+
+run
+
+``` sh
+apt-cache search aurorae
+```
+
+show
+
+```
+arc-kde - Port of the popular GTK theme Arc for Plasma 5
+materia-kde - Port of the popular GTK theme Materia for Plasma 5
+orchis-kde - Port of the popular GTK theme Orchis for Plasma
+```
+
+run
+
+``` sh
+apt-cache search kvantum
+```
+
+show
+
+```
+arc-kde - Port of the popular GTK theme Arc for Plasma 5
+materia-kde - Port of the popular GTK theme Materia for Plasma 5
+orchis-kde - Port of the popular GTK theme Orchis for Plasma
+qt5-style-kvantum - Kvantum style engine (binaries)
+qt5-style-kvantum-l10n - Kvantum style engine (localization)
+qt5-style-kvantum-themes - Kvantum style engine (themes)
+qt6-style-kvantum - Kvantum style engine (binaries)
+qt6-style-kvantum-l10n - Kvantum style engine (localization)
+qt6-style-kvantum-themes - Kvantum style engine (themes)
 ```
