@@ -93,6 +93,8 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 | [~/.gtkrc-2.0](./asset/overlay/etc/skel/.gtkrc-2.0) |
 
 
+
+
 ### gtk3
 
 | Config File Path |
@@ -174,7 +176,17 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 
 | Ubuntu Package |
 | --- |
-| [lxqt](https://packages.ubuntu.com/noble/lxqt) |
+| [lxqt](https://packages.ubuntu.com/oracular/lxqt) |
+
+
+| Ubuntu Package |
+| --- |
+| [kwin](https://packages.ubuntu.com/oracular/kwin) |
+| [kwin-x11](https://packages.ubuntu.com/oracular/kwin-x11) |
+| [kwin-common](https://packages.ubuntu.com/oracular/kwin-common) |
+| [kwin-data](https://packages.ubuntu.com/oracular/kwin-data) |
+| [kwin-addons](https://packages.ubuntu.com/oracular/kwin-addons) |
+| [kwin-decoration-oxygen](https://packages.ubuntu.com/oracular/kwin-decoration-oxygen) |
 
 
 
