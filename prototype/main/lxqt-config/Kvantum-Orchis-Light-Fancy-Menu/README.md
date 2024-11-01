@@ -26,21 +26,24 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 
 
 
+
 ## Config File Path
 
 * [lxqt](#lxqt)
 * [kwin](#kwin)
-* [default-cursor-theme](#default-cursor-theme)
+* [kvantum](#kvantum)
+* [Trolltech.conf](#trolltechconf)
 * [gtk2](#gtk2)
 * [gtk3](#gtk3)
-* [Trolltech.conf](#trolltechconf)
-* [kvantum](#kvantum)
+* [default-cursor-theme](#default-cursor-theme)
 * [mimeapps.list](#mimeappslist)
-* [thunar](#thunar)
-* [xfce4-terminal](#xfce4-terminal)
 * [pcmanfm-qt](#pcmanfm-qt)
 * [qterminal](#qterminal)
 * [sakura](#sakura)
+* [thunar](#thunar)
+* [xfce4-terminal](#xfce4-terminal)
+
+
 
 
 ### lxqt
@@ -54,6 +57,8 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 | [~/.config/lxqt/session.conf](./asset/overlay/etc/skel/.config/lxqt/session.conf) |
 
 
+
+
 ### kwin
 
 | Config File Path |
@@ -61,11 +66,24 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 | [~/.config/kwinrc](./asset/overlay/etc/skel/.config/kwinrc) |
 
 
-### default-cursor-theme
+
+
+### kvantum
 
 | Config File Path |
 | --- |
-| [~/.icons/default/index.theme](./asset/overlay/etc/skel/.icons/default/index.theme) |
+| [~/.config/Kvantum/kvantum.kvconfig](./asset/overlay/etc/skel/.config/Kvantum/kvantum.kvconfig) |
+
+
+
+
+### Trolltech.conf
+
+| Config File Path |
+| --- |
+| [~/.config/Trolltech.conf](./asset/overlay/etc/skel/.config/Trolltech.conf) |
+
+
 
 
 ### gtk2
@@ -84,18 +102,15 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 | [~/.config/gtk-3.0/vte-terminal.css](./asset/overlay/etc/skel/.config/gtk-3.0/vte-terminal.css) |
 
 
-### Trolltech.conf
+
+
+### default-cursor-theme
 
 | Config File Path |
 | --- |
-| [~/.config/Trolltech.conf](./asset/overlay/etc/skel/.config/Trolltech.conf) |
+| [~/.icons/default/index.theme](./asset/overlay/etc/skel/.icons/default/index.theme) |
 
 
-### kvantum
-
-| Config File Path |
-| --- |
-| [~/.config/Kvantum/kvantum.kvconfig](./asset/overlay/etc/skel/.config/Kvantum/kvantum.kvconfig) |
 
 
 ### mimeapps.list
@@ -103,6 +118,35 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 | Config File Path |
 | --- |
 | [~/.config/mimeapps.list](./asset/overlay/etc/skel/.config/mimeapps.list) |
+
+
+
+
+### pcmanfm-qt
+
+| Config File Path |
+| --- |
+| [~/.config/pcmanfm-qt/default/settings.conf](./asset/overlay/etc/skel/.config/pcmanfm-qt/default/settings.conf) |
+
+
+
+
+### qterminal
+
+| Config File Path |
+| --- |
+| [~/.config/qterminal.org/qterminal.ini](./asset/overlay/etc/skel/.config/qterminal.org/qterminal.ini) |
+
+
+
+
+### sakura
+
+| Config File Path |
+| --- |
+| [~/.config/sakura/sakura.conf](./asset/overlay/etc/skel/.config/sakura/sakura.conf) |
+
+
 
 
 ### thunar
@@ -114,33 +158,14 @@ orchis-kde - Port of the popular GTK theme Orchis for Plasma
 | [~/.config/Thunar/accels.scm](./asset/overlay/etc/skel/..config/Thunar/accels.scm) |
 
 
+
+
 ### xfce4-terminal
 
 | Config File Path |
 | --- |
 | [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml](./asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml) |
 | [~/.config/xfce4/terminal/accels.scm](./asset/overlay/etc/skel/.config/xfce4/terminal/accels.scm) |
-
-
-### pcmanfm-qt
-
-| Config File Path |
-| --- |
-| [~/.config/pcmanfm-qt/default/settings.conf](./asset/overlay/etc/skel/.config/pcmanfm-qt/default/settings.conf) |
-
-
-### qterminal
-
-| Config File Path |
-| --- |
-| [~/.config/qterminal.org/qterminal.ini](./asset/overlay/etc/skel/.config/qterminal.org/qterminal.ini) |
-
-
-### sakura
-
-| Config File Path |
-| --- |
-| [~/.config/sakura/sakura.conf](./asset/overlay/etc/skel/.config/sakura/sakura.conf) |
 
 
 
